@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import unittest
 
 # the largest integer we have to deal with
